@@ -1,0 +1,105 @@
+        *{
+            background-color: rgba(197, 197, 197, 0.897);
+        }
+        body{
+            border: 4px;
+            margin: auto;
+        }
+        a:hover{
+            background-color:#324866;
+            color: white ;
+        }
+
+        a {
+            font-size: 1em;
+            border-radius: 50px;
+            color: black;
+            background-color: rgba(197, 197, 197, 0.897);
+            padding: 20px;
+            text-decoration: none;
+        }
+        img{
+            background-color:#5694EA;
+            padding-top: 10px;
+        }
+        h1{
+            align-items: baseline;
+            background-color:#5694EA;
+            font-size: 50px;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            
+        }
+        h2{
+            background-color:white;
+
+        }
+        span{
+            background-color:white;
+        }
+        p
+    {
+        background-color:white;
+        font-size: 16px;
+        text-align: justify;
+    }
+     .link-postagem1
+     {
+
+        font-size: 16px;
+        border-radius: 0px;   
+        padding: 1px;
+        background-color:white;
+        color: #324866;
+        
+
+    }
+        #menu{
+            background-color:#5694EA;
+            padding: 10px;
+        }
+        #cabecalho {
+            background-color:#5694EA;
+            height:  180px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            text-align: center;
+        }
+        #titulo-postagem{
+            background-color: white;
+            font-size: 25px;
+            text-align: center;
+            
+            padding: 10px;
+        }
+        #area-de-postagem{
+            background-color: white;
+            margin:auto;
+            width: 1000px;
+            display: block;
+          
+            text-align: justify;
+        }
+        #area-central{
+            background-color: white;
+            width: 660px;
+            
+            float:left;
+            text-align: justify;
+        }
+        #area-lateral{
+            background-color: white;
+            float:right; 
+            width: 280px;
+            border: solid white 10px;
+        }
+        .postagem{
+            padding:20px;
+            background-color:white;
+            
+        }
+#rodape{
+    background-color: #324866   ;
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    
+}
